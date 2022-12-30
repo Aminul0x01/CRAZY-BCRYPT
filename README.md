@@ -1,4 +1,4 @@
-#INSTALLATION ON LINUX
+1. INSTALLATION ON LINUX
 
 ```sh
 $ git clone https://github.com/Aminul0x01/CRAZY-BCRYPT
