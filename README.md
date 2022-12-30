@@ -1,6 +1,6 @@
  WARNING: Its only for Educational Purpose only don't misuse it
 
-1. This sript developed to decrypt bcrypt hash, we are unable to reverse hashes so this sript work as brute force but its really fast you can use it to decode your hashes,
+1. This sript developed to decrypt bcrypt hash, we are unable to reverse hashes so this sript work as brute force but its really fast..
 2. INSTALLATION ON LINUX
 
 ```sh
