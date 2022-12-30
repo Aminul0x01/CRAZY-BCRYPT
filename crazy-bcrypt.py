@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# bcrypt decode single
-# Open Source Dedoce gagaltotal666 - Tot
-
 from passlib.hash import bcrypt
 from libsrary import pingo
 import os
